@@ -1,13 +1,13 @@
 # virtual-clock
-Wes Bos-JS30<br>
+ Wes Bos-JS30
 
-[see live-Demo](https://cleverttech.github.io/virtual-clock/)
+[See live-Demo](https://cleverttech.github.io/virtual-clock/)
 
 <img src="https://github.com/Cleverttech/virtual-clock/blob/main/demo3.PNG" alt="demo-Image" margin="auto 0px" width="350" height="180"/>
 <hr>
 
-📚 Used Stack <br>
-~ Javascript <br>
-~ CSS <br>
-~ Html
+###### Technologies :
 
+- Javascript 
+- CSS 
+- Html
